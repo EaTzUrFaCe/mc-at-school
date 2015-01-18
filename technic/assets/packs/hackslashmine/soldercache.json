@@ -1,0 +1,24 @@
+{
+  "name": "hackslashmine",
+  "display_name": "Hack Slash Mine",
+  "url": "http://www.technicpack.net/hackslashmine",
+  "icon": "http://cdn.technicpack.net/resources/hackslashmine/icon.png?1393893282",
+  "icon_md5": "7225c0f609c2fa3ba934c2bff296bdfb",
+  "logo": "http://cdn.technicpack.net/resources/hackslashmine/logo.png?1393893282",
+  "logo_md5": "f3497f0c1804cbf693c9ce863d5eea56",
+  "background": "http://cdn.technicpack.net/resources/hackslashmine/background.png?1393893282",
+  "background_md5": "d39a840f9033993b050167a83b3e9f3a",
+  "recommended": "0.6.4.6",
+  "latest": "0.6.4.6",
+  "builds": [
+    "0.6.0",
+    "0.4",
+    "0.6.4",
+    "0.6.4.1",
+    "0.6.4.2",
+    "0.6.4.3",
+    "0.6.4.4",
+    "0.6.4.5f",
+    "0.6.4.6"
+  ]
+}

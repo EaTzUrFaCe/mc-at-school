@@ -1,0 +1,34 @@
+{
+  "name": "tekkitmain",
+  "displayName": "Tekkit",
+  "platformUrl": "http://www.technicpack.net/modpack/tekkitmain.552547",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552547.png?1419663026",
+    "md5": "cb03345df66b1b0cc9c26f776ce5e7bb"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552547.png?1419663026",
+    "md5": "534f3072cafcb9d8fba6a3f134407334"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552547.jpg?1419663026",
+    "md5": "b7066df8eb219d7caa108c5b8c0fb0ba"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Tekkit modpack",
+  "ratings": 0,
+  "runs": 581445,
+  "downloads": 135513,
+  "forceDir": false,
+  "feed": [
+    {
+      "user": "cannibalvox",
+      "date": 1419981209,
+      "content": "LexManos\u0027s LegacyJavaFixer has been added to both the latest and recommended versions, so users of java 1.8 can play both!",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/6494"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "hackslashmine",
+  "displayName": "Hack Slash Mine",
+  "url": "",
+  "platformUrl": "http://www.technicpack.net/modpack/hackslashmine.552684",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552684.png?1419880045",
+    "md5": "30bd6dd3cbdc6bc82a7e28dbbd4d3e20"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552684.png?1419880045",
+    "md5": "d02daf3213683d18d7a27b83adb29dc4"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552684.jpg?1419880045",
+    "md5": "0f32c8ec9035ca15db74a63cbf13c523"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Hack/Mine modpack",
+  "ratings": 0,
+  "runs": 87156,
+  "downloads": 34645,
+  "forceDir": false,
+  "feed": []
+}

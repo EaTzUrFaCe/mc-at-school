@@ -1,0 +1,13 @@
+[19:55:20] [Client thread/INFO]: Setting user: EaTzUrFaCe
+[19:55:20] [Client thread/INFO]: (Session ID is token:425f117dc6414de09d8f5b8289650adf:83d3619aa3dd4813a289a1dc0645a160)
+[19:55:21] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:55:21] [Client thread/INFO]: Reloading ResourceManager: Default
+[19:55:22] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:55:22] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[19:55:22] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:55:22] [Thread-5/INFO]: OpenAL initialized.
+[19:55:22] [Sound Library Loader/INFO]: Sound engine started
+[19:55:24] [Client thread/INFO]: Created: 512x512 textures-atlas
+[19:55:39] [Client thread/INFO]: Stopping!
+[19:55:39] [Client thread/INFO]: SoundSystem shutting down...
+[19:55:40] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

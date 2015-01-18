@@ -1,0 +1,27 @@
+{
+  "name": "yogbox",
+  "displayName": "Yogbox",
+  "url": "",
+  "platformUrl": "http://www.technicpack.net/modpack/yogbox.552680",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552680.png?1419880146",
+    "md5": "fe5541d37faefa832468e30e7edc79a7"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552680.png?1419880146",
+    "md5": "0e4211aded2829fe49af2f94b1676996"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552680.jpg?1419880146",
+    "md5": "6ab03cca0264bc5c850db16ebd1e0ebb"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Yogbox modpack",
+  "ratings": 0,
+  "runs": 93855,
+  "downloads": 35093,
+  "forceDir": false,
+  "feed": []
+}

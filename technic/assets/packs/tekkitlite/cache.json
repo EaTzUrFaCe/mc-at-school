@@ -1,0 +1,26 @@
+{
+  "name": "tekkitlite",
+  "displayName": "Tekkit Lite",
+  "platformUrl": "http://www.technicpack.net/modpack/tekkitlite.552675",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552675.png?1419663322",
+    "md5": "908892777955a9d63e1e5ea4ba6b9f5b"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552675.png?1419663322",
+    "md5": "f6893daefe0003d541f7d65814bf4798"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552675.jpg?1419663322",
+    "md5": "b24503481c80e7f48748785a79f1fa3e"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Tekkit Lite modpack",
+  "ratings": 0,
+  "runs": 417195,
+  "downloads": 72523,
+  "forceDir": false,
+  "feed": []
+}

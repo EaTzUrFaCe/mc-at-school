@@ -1,0 +1,26 @@
+{
+  "name": "tppi",
+  "displayName": "Test Pack Please Ignore",
+  "platformUrl": "http://www.technicpack.net/modpack/tppi.552559",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552559.png?1419880204",
+    "md5": "c3b7c9f0adeb183d5868029fd08c874a"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552559.png?1419880204",
+    "md5": "bf10579c8cb2e3393729fa6ff7be213e"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552559.jpg?1419880204",
+    "md5": "698fe6a1112d772ee3246fde0a0f20d8"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Test Pack Please Ignore modpack",
+  "ratings": 0,
+  "runs": 236424,
+  "downloads": 96755,
+  "forceDir": false,
+  "feed": []
+}

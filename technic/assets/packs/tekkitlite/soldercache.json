@@ -1,0 +1,31 @@
+{
+  "name": "tekkitlite",
+  "display_name": "Tekkit Lite",
+  "url": "http://www.technicpack.net/tekkit-lite",
+  "icon": "http://cdn.technicpack.net/resources/tekkitlite/icon.png?1387867344",
+  "icon_md5": "aefa89c377dcb217fdf99988f6e25b8f",
+  "logo": "http://cdn.technicpack.net/resources/tekkitlite/logo.png?1387867344",
+  "logo_md5": "4dc44bd7a08fa76f3e619587f189f8eb",
+  "background": "http://cdn.technicpack.net/resources/tekkitlite/background.png?1387867344",
+  "background_md5": "5a4592cb38f9bf0ca76b0667c6196b0b",
+  "recommended": "0.6.5",
+  "latest": "0.6.5",
+  "builds": [
+    "0.5.9",
+    "0.5.8.1",
+    "0.5.7",
+    "0.5.6",
+    "0.5.5",
+    "0.5.4",
+    "0.5.3",
+    "0.5.2",
+    "0.5.1",
+    "0.5.0",
+    "0.6.0",
+    "0.6.1",
+    "0.6.2",
+    "0.6.3",
+    "0.6.4",
+    "0.6.5"
+  ]
+}

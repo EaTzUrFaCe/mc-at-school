@@ -1,0 +1,26 @@
+{
+  "name": "tekkit",
+  "displayName": "Tekkit Classic",
+  "platformUrl": "http://www.technicpack.net/modpack/tekkit.552560",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552560.png?1419663245",
+    "md5": "fc66c7b6d82ade0973b98c9ce5ad96c9"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552560.png?1419663245",
+    "md5": "8b325e992ff6eaecda3b0af2c5d73843"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552560.jpg?1419663245",
+    "md5": "a6137c750a61bb48d7973406c84c25d0"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Tekkit Classic modpack",
+  "ratings": 0,
+  "runs": 514412,
+  "downloads": 94630,
+  "forceDir": false,
+  "feed": []
+}

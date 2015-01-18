@@ -1,0 +1,26 @@
+{
+  "name": "bigdig",
+  "displayName": "Big Dig",
+  "platformUrl": "http://www.technicpack.net/modpack/bigdig.552679",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552679.png?1419662884",
+    "md5": "996aefd1eb4a24b8d399b17cbc3d1161"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552679.png?1419662884",
+    "md5": "aca81772494e0f2d3afd140d86e4c1cc"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552679.jpg?1419662884",
+    "md5": "a8661882202854ae29915ff60dbc65a3"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Big Dig modpack",
+  "ratings": 0,
+  "runs": 126178,
+  "downloads": 42157,
+  "forceDir": false,
+  "feed": []
+}

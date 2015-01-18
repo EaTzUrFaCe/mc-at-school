@@ -1,0 +1,18 @@
+{
+  "clientToken": "29936251-bd2c-49b5-924f-58b8a1768b1d",
+  "savedUsers": {
+    "eatzurface": {
+      "username": "eatzurface",
+      "accessToken": "425f117dc6414de09d8f5b8289650adf",
+      "clientToken": "29936251-bd2c-49b5-924f-58b8a1768b1d",
+      "displayName": "EaTzUrFaCe",
+      "profile": {
+        "id": "83d3619aa3dd4813a289a1dc0645a160",
+        "name": "EaTzUrFaCe",
+        "legacy": true
+      },
+      "userProperties": {}
+    }
+  },
+  "lastUser": "eatzurface"
+}

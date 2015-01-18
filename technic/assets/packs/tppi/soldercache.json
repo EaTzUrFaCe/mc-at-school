@@ -1,0 +1,17 @@
+{
+  "name": "tppi",
+  "display_name": "Test Pack Please Ignore",
+  "icon": "http://cdn.technicpack.net/resources/tppi/icon.png?1413654548",
+  "icon_md5": "",
+  "logo": "http://cdn.technicpack.net/resources/tppi/logo.png?1413654548",
+  "logo_md5": "",
+  "background": "http://cdn.technicpack.net/resources/tppi/background.png?1413654548",
+  "background_md5": "",
+  "recommended": "1.1.2a",
+  "latest": "1.1.2a",
+  "builds": [
+    "1.1.1",
+    "1.1.2",
+    "1.1.2a"
+  ]
+}

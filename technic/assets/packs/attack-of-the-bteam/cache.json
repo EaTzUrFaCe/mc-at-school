@@ -1,0 +1,34 @@
+{
+  "name": "attack-of-the-bteam",
+  "displayName": "Attack of the B-Team",
+  "platformUrl": "http://www.technicpack.net/modpack/attack-of-the-bteam.552556",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552556.png?1419662738",
+    "md5": "05b9ca7ff66e6301c0b6f60f1f74315f"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552556.png?1419662738",
+    "md5": "10fd52d7792171be49d80f6ffb3c52a9"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552556.jpg?1419662738",
+    "md5": "7718f9b6df14ba8d28ea02e85b60a563"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Attack of the B-Team modpack",
+  "ratings": 0,
+  "runs": 955871,
+  "downloads": 164938,
+  "forceDir": false,
+  "feed": [
+    {
+      "user": "cannibalvox",
+      "date": 1419980265,
+      "content": "We\u0027ve applied LexManos\u0027s Legacy Java Fixer to Attack of the B-Team, so now users with java 1.8 can play!",
+      "avatar": "http://www.gravatar.com/avatar/417979e451a4ed37c22f5340a9c3cd4a?s\u003d60\u0026d\u003dretro",
+      "url": "http://www.technicpack.net/status/6483"
+    }
+  ]
+}

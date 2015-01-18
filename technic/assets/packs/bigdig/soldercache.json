@@ -1,0 +1,28 @@
+{
+  "name": "bigdig",
+  "display_name": "Big Dig",
+  "icon": "http://cdn.technicpack.net/resources/bigdig/icon.png?1388544083",
+  "icon_md5": "4bbc148086691db988242f6bcd858dee",
+  "logo": "http://cdn.technicpack.net/resources/bigdig/logo.png?1388544083",
+  "logo_md5": "16bc208163966b47f44b037c31297e31",
+  "background": "http://cdn.technicpack.net/resources/bigdig/background.png?1388544083",
+  "background_md5": "bfd4cc5218492c5bd230e343e677cbfb",
+  "recommended": "1.3.9",
+  "latest": "1.3.13",
+  "builds": [
+    "1.2.1",
+    "1.2.2",
+    "1.3.2",
+    "1.3.3",
+    "1.3.4",
+    "1.3.5",
+    "1.3.6",
+    "1.3.7",
+    "1.3.8",
+    "1.3.9",
+    "1.3.10",
+    "1.3.11",
+    "1.3.12",
+    "1.3.13"
+  ]
+}

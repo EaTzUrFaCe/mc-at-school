@@ -1,0 +1,19 @@
+{
+  "installedPacks": {
+    "bigdig": {
+      "name": "bigdig",
+      "build": "recommended",
+      "directory": "%MODPACKS%\\bigdig"
+    },
+    "vanilla": {
+      "name": "vanilla",
+      "build": "recommended",
+      "directory": "%MODPACKS%\\vanilla"
+    }
+  },
+  "byIndex": [
+    "bigdig",
+    "vanilla"
+  ],
+  "selected": "vanilla"
+}

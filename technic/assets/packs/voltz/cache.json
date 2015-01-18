@@ -1,0 +1,26 @@
+{
+  "name": "voltz",
+  "displayName": "Voltz",
+  "platformUrl": "http://www.technicpack.net/modpack/voltz.552677",
+  "icon": {
+    "url": "http://cdn.technicpack.net/platform2/pack-icons/552677.png?1419880110",
+    "md5": "4a56f82282591a594c6b6a79fafa424e"
+  },
+  "logo": {
+    "url": "http://cdn.technicpack.net/platform2/pack-logos/552677.png?1419880110",
+    "md5": "25904f1c62f3fd243fafb845ef844b98"
+  },
+  "background": {
+    "url": "http://cdn.technicpack.net/platform2/pack-backgrounds/552677.jpg?1419880110",
+    "md5": "db0595f472fb801d2d0c5e4328222608"
+  },
+  "minecraft": "1.4.7",
+  "version": "1.0",
+  "solder": "http://solder.technicpack.net/api/",
+  "description": "The official Voltz modpack",
+  "ratings": 0,
+  "runs": 180425,
+  "downloads": 48222,
+  "forceDir": false,
+  "feed": []
+}

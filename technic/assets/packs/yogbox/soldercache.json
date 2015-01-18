@@ -1,0 +1,18 @@
+{
+  "name": "yogbox",
+  "display_name": "Yogbox",
+  "url": "",
+  "icon": "http://cdn.technicpack.net/resources/yogbox/icon.png?1388544026",
+  "icon_md5": "a78ce251f21dba504fa97b5ba724f305",
+  "logo": "http://cdn.technicpack.net/resources/yogbox/logo.png?1388544026",
+  "logo_md5": "5249adc2b683784089759e28bc37e01d",
+  "background": "http://cdn.technicpack.net/resources/yogbox/background.png?1388544026",
+  "background_md5": "9acbe5a823ecdb39aea88114a7923f7f",
+  "recommended": "1.2.1",
+  "latest": "1.2.5",
+  "builds": [
+    "1.2.0",
+    "1.2.1",
+    "1.2.5"
+  ]
+}
